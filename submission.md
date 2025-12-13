@@ -9,6 +9,6 @@ Submission Date:13-12-2025
 
 Project Links
 
-GitHub Repository:
+GitHub Repository:https://github.com/BasilBiju1217/linkedin-extractor
 
-Google Drive Data Folder:
+Google Drive Data Folder:https://drive.google.com/drive/folders/1rckaeuRglG1xyMNXqueZ4_wZDexbDeTt?usp=drive_link
